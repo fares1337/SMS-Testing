@@ -1,0 +1,61 @@
+{
+    "main_blog": {
+        "title": "Por qué importa el tamaño",
+        "p1": "Aquí puede encontrar artículos, información y aspectos interesantes sobre una variedad de temas relacionados con el tamaño. <br><br> ¡Diviértase leyendo! <br>"
+    },
+
+
+    "blog1": {
+        "title": "FAST FASHION VS. SLOW FASHION",
+        "p1": "Aquí puede encontrar algunas de las principales diferencias, características e información sobre los antecedentes de Fast Fashion y Slow Fashion. ¡Diviértase!",
+        "title2": "¿Por qué Fast Fashion se convirtió en una cosa ...",
+        "p2": "En los últimos años, las marcas grandes y pequeñas de todo el mundo tuvieron que encontrar una manera de mantenerse en el nuevo mundo de los medios",
+        "p3": "Los cambios tecnológicos y, especialmente, el uso intensivo de teléfonos inteligentes y redes sociales, han allanado el camino para un nuevo mundo de la publicidad",
+        "p4": "En lugar de revistas impresas, las marcas utilizan influencers y bloggers para presentar su ropa y nuevas colecciones. ¿Y por qué no? Se dirigen a un público específico de forma rápida, eficiente e interactiva a diario",
+        "p5": "Sin embargo, la continua necesidad de publicar nuevos puntos destacados, a veces incluso más de una vez al día, llevó al hecho de que las personas necesitaban nuevos atuendos y cosas nuevas para presentar",
+        "p6": "Fast Fashion se desarrolló como una nueva forma de vivir la ropa en vivo. El valor de esta tendencia no reside en la calidad de la prenda de vestir, sino en su variedad",
+        "p7": "Tener una gran variedad de prendas de vestir, que puedes mezclar y combinar y reemplazar cuando sea necesario, es el núcleo de Fast Fashion",
+        "p8": "A menudo, esto también incluye, sin embargo, la necesidad de ropa barata. Y esas usualmente se producen en la masa y en condiciones no sostenibles",
+        "p9": "En 2018, la tendencia de la moda rápida sufrió importantes críticas por causar toneladas de desperdicios y no cuidar nuestro planeta y el medio ambiente",
+        "p10": "Nació un nuevo desarrollo; se podría decir lo contrario de Fast Fashion. A saber: Slow Fashion",
+        "title3": "La moda lenta como nuevo desarrollo",
+        "p11": "&bull; La ropa se produce en condiciones justas, a menudo incluso a nivel local",
+        "p12": "&bull; El enfoque radica en tener solo un puñado de piezas seleccionadas en lugar de varias y demasiado",
+        "p13": "&bull; Las prendas y tejidos a menudo están hechos de materiales reciclados y fuentes sostenibles",
+        "p14": "&bull; La ropa no daña el medio ambiente cuando se desecha",
+        "p15": "&bull; El precio de las piezas de Slow Fashion difiere de Fast Fashion",
+        "p16": "Con la creciente presión de los ambientalistas, trabajadores y clientes, Slow Fashion se vuelve cada vez más importante",
+        "p17": "Slow Fashion, también conocida como nueva ropa real. Las marcas de Slow Fashion tienen que ocuparse de toda la cadena de suministro de la producción y el transporte de las mercancías",
+        "p18": "Si desea ver algunas de las marcas de moda lentas, puede hacer clic en nuestra sección <a [routerLink]=['/brands/'] > Marcas de moda </a> o directamente con ellas en el <a [routerLink]=['/app/'] > App showmysize </a> ",
+        "p19": "Conocer el tamaño correcto al comprar contribuye a menos rendimientos y, por lo tanto, menos emisiones, desperdicio de recursos y costos ambientales"
+    },
+
+    "language": {
+        "l1": "Inglés",
+        "l2": "Francés",
+        "l3": "Italiano",
+        "l4": "Alemán",
+        "l5": "Español"
+    },
+
+    "blog2": {
+        "titel": "ROPA INDIVIDUAL COMO SOLUCIÓN PARA PROBLEMAS DE TAMAÑO",
+        "p1": "Si no eres del todo normal, es posible que tengas problemas para encontrar el tamaño correcto. Brazos largos, piernas cortas, un poco de barriga, extra grande o muy pequeño. Sea lo que sea lo que te permite enfrentar la frustración al comprar tu ropa: es agotador, ¿verdad? ",
+        "p20": "Solo hay dos cosas que debes saber:",
+        "p21": "1. ¡No está solo! Hablamos con miles de personas y la App showmysize está ahí para ayudarlo. <br> 2. Si no puede encontrar nada en ropa lista para usar, ¡intente vestimenta individual! Suena más complicado y costoso de lo que realmente es. Vea a continuación las principales diferencias y características ",
+        "p22": "En los últimos años, las marcas grandes y pequeñas de todo el mundo tuvieron que encontrar una manera de mantenerse en el nuevo mundo de los medios",
+        "title2": "Individual versus ready-to-wear",
+        "title3": "La oportunidad de personalización masiva",
+        "p2": "Mientras que la ropa lista para usar se fabrica para el mercado masivo, la ropa individual está hecha especialmente para usted. <br> <br> A menudo, las marcas de moda lenta se centran en piezas de ropa bastante individualizadas. Confección de ropa solo para un grupo de personas más pequeño y muy individual, hace posible cuidar el proceso de producción. Esto también se conoce como producir en el tamaño de lote 1 y se define como una de las mayores tendencias futuras. <br> <br> Sin embargo, esto no es así. significa que el prêt-à-porter es automáticamente el chico malo de la moda. Hay una variedad de marcas que se centran en prendas sostenibles e individualizadas. <br><br> Espere ... individual pero listo para usar: ¿cómo es eso? ¿Es posible? <br><br> Puedes ir por el medio. ",
+        "p11": "La personalización masiva parece ser una contradicción. Pero en realidad no lo es. <br><br> El término hecho a medida se refiere al hecho de que un diseñador no está comenzando su ropa completamente desde cero. El diseñador utiliza patrones predefinidos y los individualiza aquí y allá de acuerdo con su cuerpo. De esta forma, la marca puede aumentar el rango de XS-XL a 16 o incluso a 30 tamaños diferentes. Las longitudes y anchuras, dependiendo de cuerpos más pequeños o más grandes, hacen posible que el diseñador se adapte a sus necesidades individualmente al mantener la producción bastante rentable. Algo que también se refleja en el precio. <br><br> Made-to-La ropa de medida no es tan cara como la ropa a medida, completamente personalizada. <br> Este hecho hace posible que todos tengan una camiseta, suéter y pantalón individuales. <br><br><br> Consulte nuestras marcas asociadas: algunas de ellos ofrecen exactamente este servicio "
+    },
+    "footer": {
+        "p1": "© 2019 mostrar mi tamaño Todos los derechos reservados",
+        "p2": "Imprimir",
+        "p3": "Política de privacidad",
+        "p4": "Términos y condiciones"
+    }
+    
+    
+    
+}

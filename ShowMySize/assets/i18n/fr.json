@@ -1,0 +1,238 @@
+{
+    "registration_login": {
+        "title1": "Enregistrer votre compte",
+        "title2": "Connectez-vous à votre compte",
+        "p1": "Connectez-vous avec les plus grandes marques du monde entier. <br> Achetez directement à la bonne taille en utilisant votre profil de taille. ",
+        "p2": "ou ",
+        "p3": "Nom d'utilisateur est nécessaire",
+        "p4": "Mot de passe oublié? ",
+        "p5": " Mot de passe ",
+        "p6": "Mot de passe requis ",
+        "p7": "S'il vous plaît vérifier vos informations d'identification! ",
+        "p8": "Se souvenir de moi ",
+        "button": "S'identifier ",
+        "button1": " S’enregistrer maintenant ",
+        "p9": "Email ",
+        "p10": "S'il vous plaît entrer un email valide ",
+        "p11": "Nom complet ",
+        "p12": "Le nom complet est requis ",
+        "p13": "Le mot de passe doit contenir des caractères et des chiffres ",
+        "p14": "Le mot de passe doit comporter au moins 8 caractères. ",
+        "p15": "Répéter le mot de passe ",
+        "p16": " c ",
+        "p17": "les mots de passe doivent correspondre ",
+        "p18": "Date de naissance ",
+        "p19": "Date de naissance est obligatoire ",
+        "p20": "Le sexe: ",
+        "p21": "Sélectionnez le sexe.. ",
+        "p22": "Mâle",
+        "p23": "Femelle ",
+        "p24": "la taille:",
+        "p25": "Poids:",
+        "p26": "La hauteur est requise",
+        "p27": "Le poids est requis",
+        "p28": "Veuillez réessayer.",
+        "p29": "S'inscrire",
+        "p30": "Vous avez déjà un compte?"
+    },
+
+    "nav_bar": {
+        "button1": "Marques de mode ",
+        "button2": "Obtenir l'application ",
+        "button3": "Pourquoi la taille compte ",
+        "input": "Rechercher.. "
+       
+    },
+
+    "home_page": {
+        "title1": "Obtenez votre profil de taille et connectez-vous avec les marques aujourd'hui.",
+        "title2": "Les catégories ",
+        "title3": "Top marques ",
+        "title4": "Vous avez des questions, des commentaires ou vous voulez juste rester en contact ? ",
+        "button": "Contactez nous "
+    },
+
+
+    "fashion_brands": {
+        "title1": "Commencez vos achats",
+        "button1": "Visitez le site web ",
+        "title2": "Plus de détails ",
+        "button2": "Contactez nous "
+    },
+
+    "brand": {
+        "p1": "faire du shopping à",
+        "p2": "Pourquoi on aime",
+        "p3": "à propos",
+        "p4": "la forme",
+        "p5": "Plus de détails sur",
+        "p6": "Tu pourrais aussi aimer: ",
+        "button2": "Contactez nous "
+    },
+
+    "language": {
+        "l1": "Anglais",
+        "l2": "Français",
+        "l3": "Italien",
+        "l4": "Allemand",
+        "l5": "Espanol"
+    },
+
+    "getapp": {
+        "p1": "Obtenez votre profil de taille",
+        "p2": "& achetez ",
+        "p3": "à la bonne taille",
+        "p4": "<br>1. Téléchargez l'application",
+        "p5": "<br>2. Créer un profil de taille ",
+        "p6": "<br>3. Connectez-vous avec les marques <br>& achetez à la bonne taille ",
+        "p7": "Téléchargez notre application gratuite ",
+        "p8": "Avec notre application, vous pouvez créer facilement votre propre profil de taille et vous connecter directement avec les marques pour acheter à la bonne taille.!",
+        "p9": "Nos valeurs - Vos avantages ",
+        "p10": "Mesures magiques ",
+        "p11": "Répondez seulement à quelques questions Connectez-vous avec les plus grandes marques de mode du monde entier et configurez votre profil de taille ",
+        "p12": "Achtat des marques ",
+        "p13": "Connectez-vous avec les plus grandes marques de mode du monde entier et achetez directement à la bonne taille avec votre profil de taille ",
+        "p14": "Body Scan 3D",
+        "p15": "Mesurez-vous avec l'un de nos scanners corporels 3D et obtenez votre avatar 3D personnel ",
+        "p16": "Faire partie de notre tribu",
+        "p17": "Obtenez votre profil de taille et éliminez les frustrations, les insécurités, les émissions inutiles et le gaspillage."
+    },
+
+    "imprint": {
+        "title1": "Responsible for the content of the website:",
+        "title2": "Avertissement:",
+        "h1": "LIENS",
+        "h2": "DROITS D’AUTEUR",
+        "h3": "PROTECTION DES DONNÉES",
+        "h4": "CONTENU",
+        "h5": "VALIDITÉ JURIDIQUE",
+        "p1": "Nom",
+        "p2": "Business",
+        "p3": "Raison",
+        "p12": "Services informatiques",
+        "p4": "Addresse",
+        "p5": "Site Internet",
+        "p6": "La marque showmysize et son activité sont des marques déposées et enregistrées en tant que marque européenne appartenant à twinster, elle-même, enregistrée et en tant que marque européenne. Toute violation des marques, de leurs logos et de leurs activités sera poursuivie légalement.",
+        "p7": "La société twinster n’a aucune influence sur les droits d’auteur et le design du contenu des pages liées. Malgré le contrôle minutieux des liens, la société twinster n’est pas légalement responsable des pages liées. La responsabilité légale exclusive du contenu des pages liées ainsi que des dommages qui en résultent incombe au propriétaire de ces pages.",
+        "p8": "Le contenu de cette page d'accueil est protégé par le droit d'auteur. La sauvegarde, la diffusion, la duplication et la reproduction de texte et / ou de matériel visuel et / ou audio de cette page d'accueil sont interdites et uniquement autorisées après autorisation écrite et expresse de twinster",
+        "p9": "Pour utiliser le formulaire de contact, vous devez entrer des données personnelles afin que nous puissions vous répondre et veiller à ce que vos besoins personnels soient correctement pris en charge. La saisie de ces données personnelles est volontaire. La société twinster utilise ces données uniquement à des fins personnelles et les garde confidentielles vis-à-vis des tiers.Vous pouvez également consulter notre politique de réglementation des données détaillée dans laquelle vous pouvez la trouver.",
+        "p10": "La société twinster est soucieuse de fournir des informations correctes et complètes sur sa page d'accueil. Toutes les informations sont collectées et fournies à la meilleure connaissance, ainsi que vérifiées de manière approfondie. Toutefois, la société ne garantit pas l'actualité, la pertinence, l'exactitude et l'exhaustivité des informations fournies. En outre, la société conserve ses droits de modification et / ou de certaines informations et contenus et / ou toute l'offre sans préavis.",
+        "p11": "L'avertissement fait partie de l'offre Internet à laquelle la page fait référence. Dans le cas où des parties du texte ou des termes et phrases ne seraient plus, ou pas complètement, la situation juridique réelle, les autres parties de l'offre, le contenu et les documents resteraient valables."
+    },
+
+    "privacy": {
+        "title1": "Politique de confidentialité",
+        "title2": "Avertissement:",
+        "h1": "Comment nous recueillons vos données personnelles et d'où nous les recueillons",
+        "h2": "Informations que vous nous donnez",
+        "h3": "Informations provenant des réseaux sociaux",
+        "h4": "Information de Lieu",
+        "h5": "Données sur les enfants",
+        "h6": "Services tiers",
+        "h7": "Changements ",
+        "h8": "Limites ",
+        "h9": "Sécurité des données ",
+        "p1": "twinster GmbH (Haferstraße 3, 4050 Traun) est une société spécialisée dans les services 3D liés aux scanners corporels en 3D et aux scans corporels 3D. La société propose une variété de services tels que, mais non exclusivement, la fourniture d'algorithmes de dimensionnement, la fourniture d'applications de dimensionnement ainsi que des applications de commerce électronique et des scanners corporels 3D.En utilisant nos services, vous acceptez nos conditions générales ainsi que la politique de confidentialité et les réglementations en matière de données.",
+        "p2": "Nous recueillons diverses informations auprès de vous sous différentes formes. En ce qui concerne les données personnelles, cela inclut, par exemple, votre nom et votre adresse, votre numéro de téléphone, votre adresse e-mail, votre localisation géographique, ainsi que vos mesures corporelles et vos données d' Avatar 3D. Nous recueillons uniquement les données dont nous avons besoin pour vous fournir nos services. Les données personnelles ne sont traitées que si (1) vous avez donné votre consentement (2) le traitement est nécessaire pour vous fournir nos services (3) vous souhaitez conserver votre compte chez nous (4) il est nécessaire de respecter nos obligations d'ordre juridique et réglementaire.",
+        "p3": "Nous recueillons diverses informations sur vous sous différentes formes. En ce qui concerne les données personnelles, cela inclut, par exemple, votre nom et votre adresse, votre numéro de téléphone, votre adresse e-mail, votre localisation géographique, ainsi que vos mesures et vos données Avatar 3D. Nous recueillons uniquement les données dont nous avons besoin pour vous fournir nos services. Les données personnelles ne sont traitées que si (1) vous avez donné votre consentement (2) le traitement est nécessaire pour vous fournir nos services (3) vous souhaitez conserver votre compte chez nous (4) il est nécessaire de respecter nos obligations et réglementaires.",
+        "p12": "VVous pouvez à tout moment retirer votre consentement (a) par écrit à office@twinster.eu et cesser d'utiliser nos services. Utiliser nos services sans nous donner accès aux informations personnelles mentionnées ci-dessus n’est pas possible, car ils sont indispensables à la correspondance de votre avatar 3D avec vos vêtements.",
+        "p4": "<strong> Comment nous recueillons vos données personnelles et d'où nous les recueillons <br> <br> Informations que vous nous communiquez</strong>",
+        
+        "p5": "Nous recueillons les données que nous recevons directement de vous au cours de notre relation. Cela inclut vos données de connexion à notre application, vos données soumises à notre algorithme de dimensionnement, vos autres données personnelles que vous entrez et vos données pour générer votre profil de dimensionnement. Il comprend également les données que vous soumettez lors de votre inscription, de votre abonnement ou de votre commande via l'un de nos services (telles que votre nom, votre adresse, votre numéro de téléphone, etc.). Il inclut également des informations de votre part concernant les enquêtes, les commentaires que vous nous avez donnés ou les courriers électroniques et autres messages que vous nous écrivez. Si vous échouez ou refusez de nous soumettre des données personnelles, nous pourrions ne pas être en mesure de vous fournir nos services.",
+        "p6": "<strong> Informations provenant des réseaux sociaux <br> </strong>",
+        "p7": "Les réseaux sociaux tels que Facebook vous permettent de vous connecter directement à notre application et à d'autres services. En procédant ainsi, vous autorisez les services à accéder à vos informations et à accepter les conditions d'utilisation des réseaux sociaux. Toutes les informations que nous recevons des réseaux sociaux dépendent du paramètre de confidentialité que vous avez défini pour ce compte spécifique. Veuillez donc consulter directement le réseau social si vous avez des questions à ce sujet.",
+        "p8": "<strong> Information de Lieu <br> </strong>",
+        "p9": "Si vous avez activé les services de localisation sur votre téléphone, nous recueillons vos informations de localisation. Lorsque vous utilisez l'application showmysize, vous devez l'activer pour pouvoir localiser le point de dimensionnement le plus proche et savoir où utiliser nos services localement - par exemple, des achats ou une numérisation corporelle en 3D.",
+        "p10": "<strong> Données sur les enfants <br> </strong>",
+        "p11": " Nous n'avons pas l'intention de collecter des données sur les enfants de moins de 13 ans. Si vous avez des informations sur un enfant utilisant nos services, que ce soit l'application showmysize ou un point de dimensionnement 3D, vous pouvez nous contacter à office@twinster.eu et les données seront supprimées.",
+        "p13": "<strong> Services tiers <br> </strong>",
+        "p14": "Notre application et nos services vous permettent d'accéder, d'utiliser et d'interagir avec des sites Web, des produits, du contenu et d'autres applications fournies par des tiers, appelés «services tiers». Ces tiers incluent, par exemple et non exclusivement, Facebook, Instagram, les marques de commerce en ligne de marques de mode de toutes sortes, les marques de personnalisation de masse, etc. Dans ce cas, les conditions et les politiques de confidentialité des services tiers entrent en vigueur lors de l'utilisation du vôtre. Veuillez également noter que twinster n’est pas responsable du contenu et de l’utilisation des données de tiers; pas plus si vous accédez aux services tiers par le biais de twinster ou d'un service twinster comme showmysize. Veuillez également noter que des tiers peuvent également utiliser des services analytiques tiers dès que vous entrez sur leur page d'accueil, leurs applications et autres et que vous utilisez / achetez leurs services et produits.",
+        "p15": "<strong> Changements <br> </strong>",
+        "p16": "La forme et la nature de nos applications peuvent changer de temps en temps sans avoir à vous informer au préalable. En outre, nous pouvons arrêter nos services et applications de manière temporaire ou permanente à tout moment et sans préavis. Nous conservons également les droits de modification des modèles d’abonnement, de limitation de l’utilisation ou de limitations similaires sans préavis. Les comptes inactifs depuis plus de 12 mois peuvent être supprimés sans préavis.",
+        "p17": "<strong> Limites <br> </strong>",
+        "p18": "Nous nous réservons le droit de supprimer ou de refuser de distribuer des informations et des données et de mettre fin aux comptes d'utilisateurs ou aux profils. De plus, nous nous réservons le droit d’accéder, de conserver, de divulguer, d’informations ou de données dans la mesure où nous pensons que cela est nécessaire pour (1) satisfaire vos besoins et vous fournir nos services / offres (2) satisfaire aux exigences légales, aux lois applicables, réglementations, demandes gouvernementales et procédures juridiques (3) pour répondre à la nécessité de détecter les éventuels problèmes techniques, de sécurité ou de fraude (4) pour répondre à vos besoins d'assistance en répondant aux demandes des utilisateurs (5) pour protéger les droits, la sécurité et la propriété de twinster et de ses services et les applications ainsi que les utilisateurs et le public.",
+        "p19": "<strong> Sécurité des données <br> </strong>",
+        "p20": "Nous nous engageons à protéger et à sauvegarder vos données personnelles et à maintenir des mesures techniques et organisationnelles garantissant le niveau de sécurité approprié pour la protection de vos données personnelles contre tout accès, toute modification, divulgation, perte ou destruction accidentels ou non autorisés. Aucun système de transmission ou de stockage ne peut être garanti comme étant totalement sécurisé et la transmission d'informations via Internet n'est pas totalement sécurisée. Si vous pensez que votre compte n'est plus sécurisé pour certaines raisons, telles que la perte ou le vol de votre appareil mobile, vous devez nous en informer rapidement. twinster ne peut être tenu pour responsable de la transmission de données sur des réseaux de télécommunications publics. twinster ne garantit pas que ces applications seront sécurisées, ininterrompues et / ou sans erreurs.",
+        "p21": "Contactez-nous pour plus d'informations"
+        
+        
+    },
+
+
+    "terms_conditions": {
+        "title1": "Termes & Conditions.",
+        "p1": "twinster GmbH (Haferstraße 3, 4050 Traun) est une société spécialisée dans les services 3D liés aux scanners corporels en 3D et aux scans corporels 3D. La société propose une variété de services tels que, mais non exclusivement, la fourniture d'algorithmes de dimensionnement, la fourniture d'applications de dimensionnement ainsi que des applications de commerce électronique et des scanners corporels 3D. ",
+        "p2": "En utilisant nos services, vous acceptez nos conditions générales ainsi que la politique de confidentialité et les réglementations en matière de données. ",
+        "p3": "Vous pouvez à tout moment retirer votre consentement (a) par écrit à office@twinster.eu et cesser d'utiliser nos services. ",
+        "p4": "<strong>Propriété intellectuelle<br> <br> NOT PART OF THE REGULATION</strong> ",
+        "p5": "twinster détient tous les droits d'auteur, marques de commerce, droits de base de données, brevets, droits de propriété intellectuelle, logiciels, codes, éléments générés sur l'App et autres services de twinster, ainsi que des images, vidéos et textes. Rien dans ces termes et conditions ne donne à aucune autre partie que twinster et ses concédants de licence d’utiliser le nom, le logo, les marques déposées, les noms de domaine, les dessins, les codes, les mises en page, les images, les vidéos ou les autres éléments distinctifs de la marque. Vous n'êtes pas autorisé à copier, utiliser, modifier, reproduire, échanger ou distribuer le contenu de twinster ou de showmysize, à aucun moment pour une exploitation commerciale, en aucune circonstance. Le précédent comprend également la conception et l’apparence de services tels que l’application et ses applications, ainsi que l’algorithme, un assistant ou un logiciel similaire. Vous ne devez copier ni transmettre aucun des éléments de la marque sans autorisation écrite préalable du responsable de twinster.  En cas de violation de ces conditions, twinster a le droit de réclamer à la partie qui a commis l'infraction des dommages-intérêts, notamment le droit de réclamer des dommages spéciaux, indirects, accessoires ou indirects, ainsi que le manque à gagner. ",
+        "p6": "<strong> Utilisations Acceptables <br> </strong>",
+        "p7": "Vous ne pouvez utiliser nos services que conformément à ces conditions et à notre politique de confidentialité. Si nous désactivons votre compte en raison d'une violation de nos conditions et / ou de notre politique de confidentialité, vous n'êtes pas autorisé à ouvrir un nouveau compte sans notre autorisation. Vous ne devez pas utiliser notre application et nos services de manière illégale pour des activités ou des fins illégales. Les utilisateurs internationaux doivent se conformer à toutes les lois locales applicables. ",
+        "p8": "NOT PART OF THE REGULATION. ",
+        "p9": "<strong> Avertissement <br> </strong>",
+        "p10": " twinster fournit toutes les informations, les applications et les services de bonne foi. Cependant, leur utilisation et leur accès se font à vos risques et périls. twinster et showmysize fournissent le contenu de tout service, application, page d'accueil et application en l'état et tel que disponible sans garantie d'aucune sorte, implicite ou explicite. Cela inclut principalement, mais pas exclusivement, la garantie de qualité marchande, d'aptitude physique, de non-contrefaçon, de sécurité, d'exactitude et de toutes les garanties découlant de l'utilisation au cours de la transaction et de la performance. twinster ne donne aucune garantie sur l'intégralité, la disponibilité, la rapidité ou la fiabilité de l'application showmysize et autres, et ne garantit pas non plus que les informations sont de qualité satisfaisante, à jour, sans virus, chevaux de Troie ou autres programmes malveillants. twinster ne sera pas responsable des dommages causés à votre smartphone ou à votre système informatique, de la perte de données ou de tout autre dommage résultant de votre accès aux applications et aux services. twinster ne garantit pas que les services seront sans erreur, sans interruption, que les défauts seront corrigés, que les informations fournies par nous sont exactes, complètes, utiles ou sans retard ni imperfection. twinster ne contrôle pas où les utilisateurs accèdent aux applications et services et quels services de réseau de télécommunication ils utilisent. Par conséquent, la société n'est en aucun cas responsable de la sécurité et du bon fonctionnement de ces services. twinster et son annuaire, représentants, employés, actionnaires, partenaires, affiliés, donneurs de licence et agents ne sont aucunement responsables des décisions que vous prenez en fonction des recommandations de twinster ou des applications de showmysize et assistants.Par la présente, vous renoncez à toute plainte que vous pourriez avoir contre twinster et son annuaire, ses représentants, employés, actionnaires, partenaires, sociétés affiliées, concédants de licence et agents, et acceptez de les tenir à l’abri de toute réclamation, procédure, dommages et intérêts (consécutifs, spéciaux, accessoires ou indirects) perte de profits liée à l'utilisation de nos services ou applications, y compris des applications. twinster et son annuaire, représentants, employés, actionnaires, partenaires, affiliés, donneurs de licence et agents ne sauraient être tenus responsables des pertes ou dommages, y compris, mais non exclusivement, la perte de données, de bonne volonté, de réputation, de bénéfices, de dommages-intérêts punitifs, de dommages accessoires. , dommages indirects ou indirects ou pertes intangibles résultant de votre utilisation et de l'accès de nos services et applications, de l'utilisation et de l'accès de nos informations fournies ou même de tout accès non autorisé, que twinster ait été préalablement informé de la possibilité de tels dommages. Ces termes et conditions, ainsi que la politique de confidentialité, constituent l'accord complet et exclusif entre vous et twinster. Ils remplacent et substituent tous les accords antérieurs entre twinster et vous concernant l'utilisation des applications et des services de twinster. Si l'une des conditions était jugée inexécutable ou invalide, les conditions restantes ne seraient pas affectées et resteraient en vigueur et de plein effet. Nos termes et conditions, ainsi que la politique de confidentialité, sont revus et modifiés de temps à autre sans préavis. Les conditions générales publiées et fournies, ainsi que la politique de confidentialité, sont à tout moment les dernières publiées. En poursuivant l'utilisation et l'accès à nos services et applications, y compris à l'application showmysize, vous acceptez que les révisions et les dernières conditions générales deviennent effectives pour vous et que vous soyez lié aux dernières conditions. ",
+        "p11": "<strong> NOT PART OF THE REGULATION <br> </strong>",
+        "p12": " NOT PART OF THE REGULATION ",
+        "p13": "<strong> NOT PART OF THE REGULATION <br> </strong>",
+        "p14": "<strong> NOT PART OF THE REGULATION <br> </strong>",
+        "p15": "<strong> NOT PART OF THE REGULATION <br> </strong>",
+        
+        "button": "Contactez nous "
+    },
+
+    "main_blog": {
+        "title": " Blog. ",
+        "p1": "Vous trouverez ici des articles, des informations et des aspects intéressants sur différents sujets liés au dimensionnement. <br><br> Ayez du plaisir à lire!<br> ",
+        "p2": "Vous trouverez ici quelques-unes des principales différences, caractéristiques et informations sur le fond de Fast Fashion et Slow Fashion ...",
+        "p3": "Individual clothing comme solution aux problèmes taille.",
+        "p4": "Si vous n'êtes pas «tout à fait la norme», vous aurez peut-être du mal à trouver la bonne taille. Bras longs, jambes courtes, un peu de ventre, extra large ou extra petit ..",
+        "p5": "Lire la suite"
+    },
+
+
+    "blog1": {
+        "title": "Mode rapide contre mode lente",
+        "p1": "Vous trouverez ici quelques-unes des principales distinctions, caractéristiques et informations sur le monde du Fast Fashion et la mode durable. Amusez vous bien! ",
+        "title2": " Pourquoi la mode rapide est devenu aussi importante… ",
+        "p2": "Au cours des dernières années, les grandes et petites marques du monde entier ont dû trouver un moyen de se pérenniser dans le nouveau monde des médias.",
+        "p3": "Les changements technologiques, notamment l'utilisation intensive des smartphones et des réseaux sociaux, ont ouvert la voie à un nouveau monde de la publicité.",
+        "p4": "Au lieu de magazines imprimés, les marques utilisent des influenceurs et des blogueurs pour présenter leurs vêtements et leurs nouvelles collections. Et pourquoi pas ? Ils ciblent un public spécifique de la manière la plus rapide, efficace et interactif au quotidien.",
+        "p5": "Cependant, le besoin constant d'afficher de nouveaux styles de vêtements, parfois même plus d'une fois par jour, a amené les gens à avoir besoin de nouvelles tenues et de nouveaux contenus à présenter.",
+        "p6": "La mode rapide s’est développé comme une nouvelle façon de vivre ses vêtements en direct. La valeur de cette tendance ne réside pas dans la qualité du vêtement, mais dans sa variété.",
+        "p7": "Avoir beaucoup de vêtements variés, que vous pouvez assortir et remplacer lorsque cela est nécessaire, est au cœur de la mode rapide.",
+        "p8": "Toutefois, cela implique également la nécessité de vêtements à prix réduit. Et ceux-ci sont généralement produits en masse et dans des conditions non durables.",
+        "p9": "En 2018, la tendance de la mode rapide a été vivement critiquée pour avoir causé des tonnes de déchets et ne pas protéger notre planète et notre environnement.",
+        "p10": "Un nouvelle évolution était né; on pourrait dire le contraire de la mode rapide. À savoir: La mode lente.",
+        "title3": "La mode lente comme nouvelle évolution ",
+        "p11": "&bull; Les vêtements sont produits dans des conditions équitables, souvent même localement",
+        "p12": "&bull; L’objectif est de n’avoir que quelques pièces choisies au lieu d’un grand nombre",
+        "p13": "&bull; Les vêtements et les tissus sont souvent fabriqués à partir de matériaux recyclés et de sources durables ",
+        "p14": "&bull; Le vêtement ne nuit pas à l'environnement lorsqu'il est jeté",
+        "p15": "&bull; Le prix des pièces de la mode lente diffère de celui de la mode rapide",
+        "p16": "Avec la pression croissante des environnementalistes, des travailleurs et des clients, la mode lente devient de plus en plus importante.",
+        "p17": "La mode lente, si souvent aussi appelé les vrais vêtement. Les marques de Slow Fashion doivent s’occuper de toute la chaîne logistique de production et de transport des marchandises.",
+        "p18": "Si vous voulez découvrir quelques belles marques de la mode lente, vous pouvez cliquer sur notre section <a [routerLink]=['/brands/'] > Marques de mode </a> ou vous connecter directement avec elles dans <a [routerLink]=['/app/'] > Appli showmysize</a>",
+        "p19": "Connaître la bonne taille lors de l'achat contribue à moins de retours et donc moins d'émissions, de gaspillage de ressources et de coûts environnementaux."
+    },
+
+
+    "blog2": {
+        "title": " VÊTEMENTS INDIVIDUELS COMME SOLUTION AUX PROBLÉMES DE TAILLE ",
+        "p3": "Vêtements individuels comme solution aux problèmes de taille",
+        "p1": "Si vous n'êtes pas « tout à fait la norme », vous aurez peut-être du mal à trouver la bonne taille. Bras longs, jambes courtes, un peu de ventre, extra large ou extra petit. Quoi que ce soit, cela vous laisse face à la frustration lors de l’achat de vos vêtements: N’est-il pas épuisant?",
+        "p20": "Vous devez noter ce qui suit :",
+        "p21": "Vous n’êtes pas seul. Nous avons parlé à des milliers de personnes et le showmysize App est là pour vous aider! <br> Si vous ne trouvez rien dans le prêt-à-porter, essayez des vêtements individuels! Cela semble plus compliqué et coûteux qu’il est en réalité. Voir ci-dessous les principales différences et caractéristiques.",
+        "p22": "NOT PART, PLEASE DELETE THIS LINE ",
+        "title2": "Prêt-à-porter vs individuel",
+        "title3": "L'opportunité de la personnalisation de masse",
+        "p2": "Alors que les vêtements de prêt-à-porter sont fabriqués pour le marché de masse, les vêtements individuels sont fabriqués spécialement pour vous. <br><br> Souvent, les marques de mode lentes se concentrent sur des vêtements plutôt individualisés. Fabriquer des vêtements uniquement pour un groupe de personnes plus petit et très individuel permet de s’occuper du processus de production. Ceci est également appelé produire des tailles de lot 1 et aussi est défini comme l'une des plus grandes tendances à venir. <br><br> Cependant, cela ne signifie pas que le prêt-à-porter est automatiquement «le méchant de la mode». Il existe une variété de marques qui se concentrent sur des vêtements durables et individualisés. <br><br>Attendez… Individualisé mais aussi prêt à porter: comment est-ce possible?<br><br>Vous pouvez aller à mi-chemin.",
+        "p11": "La personnalisation de masse semble contradictoire. Mais en réalité ce n’est vraiment pas le cas. <br><br> Le terme «sur mesure» fait référence au fait qu'un designer ne commence pas vos vêtements à zéro. Au lieu de cela, le concepteur utilise des modèles prédéfinis et les individualise ici et là en fonction de votre corps. <br><br>Ainsi, la marque peut augmenter la gamme allant du XS-XL à 16 voire même 30 tailles différentes.  <br>Disposer de longueurs et de largeurs différentes, en fonction de corps plus petits ou plus gros, permet au concepteur de s’adapter à vos besoins individuelles tout en maintenant la production à prix réduit. Quelque chose qui se reflète également dans le prix.<br><br>Les vêtements sur mesure ne sont pas aussi coûteux que des vêtements sur mesure entièrement personnalisés. <br>Ce fait permet à tout le monde d’avoir un t-shirt, un chandail et un pantalon individuels. <br><br><br>Découvrez nos marques partenaires - certaines offrent exactement ce service."
+        },
+        
+        "footer": {
+         "p1": "© 2019 show my size tout droits reservée",
+         "p2": "Imprint",
+         "p3": "Politica sulla Riservatezza",
+         "p4": "Termini &amp; condizioni"
+     }
+}
